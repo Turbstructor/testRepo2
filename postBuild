@@ -1,0 +1,1 @@
+conda install scijava-jupyter-kernel -c conda-forge
